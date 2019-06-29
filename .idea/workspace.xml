@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a702f499-b16a-459a-b0bf-e7fb67344546" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ebay-mobile/src/test/java/EbayTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ebay-mobile/src/test/resources/com.ebay.mobile_163_apps.evozi.com.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scheduler-android-tests/src/test/java/com/scheduler/tests/OpenAppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scheduler-android-tests/src/test/resources/v.0.0.1.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/wiki-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/wiki-tests_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/wiki-tests_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki-tests/src/test/java/WikiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki-tests/src/test/resources/org-wikipedia.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scheduler-android-tests/src/test/java/com/scheduler/tests/OpenAppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/scheduler-android-tests/src/test/java/com/scheduler/tests/OpenAppTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/scheduler-android-tests/.gradle/" />
@@ -13,6 +19,9 @@
     <ignored path="$PROJECT_DIR$/ebay-mobile/.gradle/" />
     <ignored path="$PROJECT_DIR$/ebay-mobile/build/" />
     <ignored path="$PROJECT_DIR$/ebay-mobile/out/" />
+    <ignored path="$PROJECT_DIR$/wiki-tests/.gradle/" />
+    <ignored path="$PROJECT_DIR$/wiki-tests/build/" />
+    <ignored path="$PROJECT_DIR$/wiki-tests/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +38,9 @@
     <projectState path="$PROJECT_DIR$/scheduler-android-tests">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/wiki-tests">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
@@ -43,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/scheduler-android-tests/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="45" />
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="15" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -51,14 +63,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scheduler-android-tests/src/test/java/com/scheduler/tests/OpenAppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="136">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wiki-tests/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wiki-tests/src/test/java/WikiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1260#1261#0" expanded="true" />
-                <element signature="e#1308#1309#0" expanded="true" />
-                <element signature="e#1352#1353#0" expanded="true" />
-                <element signature="e#1381#1382#0" expanded="true" />
+                <element signature="e#1525#1526#0" expanded="true" />
+                <element signature="e#1573#1574#0" expanded="true" />
+                <element signature="e#1772#1773#0" expanded="true" />
+                <element signature="e#1801#1802#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,17 +103,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ebay-mobile/src/test/java/EbayTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="328">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1048#1049#0" expanded="true" />
-                <element signature="e#1096#1097#0" expanded="true" />
-                <element signature="e#1140#1141#0" expanded="true" />
-                <element signature="e#1169#1170#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,81 +131,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/scheduler-android-tests/build.gradle" />
-        <option value="$PROJECT_DIR$/scheduler-android-tests/src/test/java/com/scheduler/tests/OpenAppTest.java" />
         <option value="$PROJECT_DIR$/ebay-mobile/build.gradle" />
         <option value="$PROJECT_DIR$/ebay-mobile/src/test/java/EbayTests.java" />
+        <option value="$PROJECT_DIR$/scheduler-android-tests/src/test/java/com/scheduler/tests/OpenAppTest.java" />
+        <option value="$PROJECT_DIR$/wiki-tests/build.gradle" />
+        <option value="$PROJECT_DIR$/wiki-tests/src/test/java/WikiTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/modules/scheduler-android-tests.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/gradle.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules/scheduler-android-tests_test.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/scheduler-android-tests_main.iml" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__cglib_cglib_3_2_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_1_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_25_0_jre.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_11_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__commons_beanutils_commons_beanutils_1_9_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_10.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__commons_digester_commons_digester_1_8_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__commons_validator_commons_validator_1_6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__io_appium_java_client_7_0_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_8_15.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_ant_ant_1_10_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_ant_ant_launcher_1_10_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_10.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_9_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_0_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_6_2_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_1_0_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_1_0_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_1_0_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_1_0_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_1_0_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_1_0_RELEASE.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_72.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_extras_beanshell_bsh_2_0b6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_6_14_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/selenium_server_standalone_3_141_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules/ebay-mobile.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/ebay-mobile_test.iml" />
-        <option value="$PROJECT_DIR$/.idea/modules/ebay-mobile_main.iml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="838" />
-    <option name="y" value="60" />
-    <option name="width" value="969" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="819" />
+    <option name="y" value="30" />
+    <option name="width" value="1058" />
     <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -188,57 +151,38 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="scheduler-android-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scheduler-android-tests" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="ebay-mobile" type="9c53a853:ProjectViewModuleGroupNode" />
             </path>
             <path>
               <item name="scheduler-android-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scheduler-android-tests" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="ebay-mobile" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scheduler-android-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scheduler-android-tests" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wiki-tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scheduler-android-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scheduler-android-tests" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scheduler-android-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ebay-mobile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scheduler-android-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ebay-mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="wiki-tests" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scheduler-android-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ebay-mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="wiki-tests" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="scheduler-android-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ebay-mobile" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scheduler-android-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ebay-mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="wiki-tests" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -250,14 +194,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ebay-mobile/src/test/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wiki-tests/src/test/resources" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.28045976" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\97255\Documents\GitHub\Scheduler19\wiki-tests\src\test\resources" />
       <recent name="C:\Users\97255\Documents\GitHub\Scheduler19\ebay-mobile\src\test\resources" />
       <recent name="C:\Users\97255\Documents\GitHub\Scheduler19\scheduler-android-tests\src\test\resources" />
     </key>
@@ -274,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.EbayTests.testAppOpened">
+  <component name="RunManager" selected="TestNG.WikiTest.searchWiki">
     <configuration name="OpenAppTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -307,8 +253,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WikiTest.searchWiki" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="wiki-tests_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WikiTest" />
+      <option name="METHOD_NAME" value="searchWiki" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.WikiTest.searchWiki" />
         <item itemvalue="TestNG.EbayTests.testAppOpened" />
         <item itemvalue="Gradle.OpenAppTest" />
       </list>
@@ -331,12 +290,24 @@
     <history-entry file="OpenAppTest - 2019.06.22 at 20h 01m 18s.xml">
       <configuration name="OpenAppTest" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="EbayTests_testAppOpened - 2019.06.24 at 19h 27m 07s.xml">
+      <configuration name="EbayTests.testAppOpened" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EbayTests_testAppOpened - 2019.06.24 at 19h 29m 01s.xml">
+      <configuration name="EbayTests.testAppOpened" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EbayTests_testAppOpened - 2019.06.24 at 19h 29m 30s.xml">
+      <configuration name="EbayTests.testAppOpened" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="WikiTest_searchWiki - 2019.06.29 at 17h 03m 41s.xml">
+      <configuration name="WikiTest.searchWiki" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20647773" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13441296" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -345,7 +316,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -354,6 +325,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -376,34 +348,44 @@
     <entry file="file://$PROJECT_DIR$/scheduler-android-tests/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="45" />
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="15" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scheduler-android-tests/src/test/java/com/scheduler/tests/OpenAppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1260#1261#0" expanded="true" />
-            <element signature="e#1308#1309#0" expanded="true" />
-            <element signature="e#1352#1353#0" expanded="true" />
-            <element signature="e#1381#1382#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wiki-tests/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ebay-mobile/src/test/java/EbayTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="328">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1048#1049#0" expanded="true" />
-            <element signature="e#1096#1097#0" expanded="true" />
-            <element signature="e#1140#1141#0" expanded="true" />
-            <element signature="e#1169#1170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wiki-tests/src/test/java/WikiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1525#1526#0" expanded="true" />
+            <element signature="e#1573#1574#0" expanded="true" />
+            <element signature="e#1772#1773#0" expanded="true" />
+            <element signature="e#1801#1802#0" expanded="true" />
           </folding>
         </state>
       </provider>

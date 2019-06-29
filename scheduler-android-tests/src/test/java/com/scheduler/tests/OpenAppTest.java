@@ -23,7 +23,7 @@ public class OpenAppTest {
         capabilities.setCapability("appActivity", "");
         capabilities.setCapability("app", "C:\\Users\\97255\\Downloads\\com.ebay.mobile_163_apps.evozi.com.apk");
 
-        driver = new AndroidDriver(new URL("https://127.0.0.1:4723/wd/hub"), capabilities);
+        driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
 
     }
     @Test
